@@ -27,4 +27,5 @@ describe("Check Stock use case unit test", () => {
     expect(result?.productId).toBe("1");
     expect(result?.stock).toBe(10);
   })
+  
 })
